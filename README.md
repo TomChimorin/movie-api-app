@@ -64,7 +64,7 @@ This project is deployed on **Vercel**. You can visit the live site [here](https
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/TomChimorin/.git
+git clone https://github.com/TomChimorin/movie-api-app/.git
 ```
 
 2. Navigate to the project directory 

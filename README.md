@@ -56,7 +56,7 @@ This app allows users to search for movies via the TMDB API. It displays the fir
 
 ## Deployment
 
-This project is deployed on **Vercel**. You can visit the live site [here](https://tailwindcss-nike-project.vercel.app/).
+This project is deployed on **Vercel**. You can visit the live site [here](https://movie-api-app-zgg4.vercel.app/).
 
 ---
 
@@ -80,4 +80,4 @@ git clone https://github.com/TomChimorin/.git
   ```bash
    npm run dev
   ```
-5. Open the deployed app in your browser at: https://tailwindcss-nike-project.vercel.app/
+5. Open the deployed app in your browser at: https://movie-api-app-zgg4.vercel.app/
